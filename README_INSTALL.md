@@ -40,7 +40,7 @@ The workflow for this is
     'cd ~/Envs/mpcvenv/'
    
    2. Clone the mpc git repository. E.g.
-      'git clone https://YOURACCOUNT@bitbucket.org/mpcdev/mpcpp.git'
+      'git clone https://github.com/YOURACCOUNT/mpc'
       
    3. cd to the cloned repository root, then `pip install -e .`  or on CF machines `pip install --user -e .` 
    
@@ -55,9 +55,9 @@ The workflow for this is
 
 ### Standard "Source Distribution" Installation: Executive summary
 
-This does a "standard install" of mpcpp just as one does for a standard python package like `numpy`.
+This does a "standard install" of mpc just as one does for a standard python package like `numpy`.
 This makes a package that you can easily call, but it is *not* editable. 
-The package may also be "old" in the sense of not having the latest edits in it made on bitbucket. 
+The package may also be "old" in the sense of not having the latest edits in it made on github. 
 
     sudo pip3 install -r https://minorplanetcenter.net/pkg/mpcpp
     
@@ -67,6 +67,6 @@ or on CF managed machines the following seems to work ...
 
 To test everything that's been installed (can run this from anywhere)
 
-	python3 -m pytest --pyargs mpcpp_tests
+	python3 -m pytest --pyargs mpc_tests
 
 

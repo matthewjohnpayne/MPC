@@ -1,23 +1,22 @@
-.. This is your project NEWS file which will contain the release notes.
-.. Example: http://www.python.org/download/releases/2.6/NEWS.txt
-.. The content of this file, along with README.rst, will appear in your
-.. project's PyPI page.
 
 News
 ====
-
-0.2a1
------
-
-*Release date: UNRELEASED*
-
-* Example news entry for the in-development version
 
 
 0.1
 ---
 
-*Release date: 15-Mar-2010*
+*Release date: XX-Mon-2019*
 
 * Example news entry for a released version
+
+0.0
+---
+
+*Release date: 01-Oct-2018*
+
+* MoU Resulting from MPC:LSST Meeting @ CfA*
+* Collaborative work, building towards open code to enable orbit-fitting (with co-var), and attribution (via MPChecker-like functionality).*
+* Payne initializing GitHub repo-structure*
+
 

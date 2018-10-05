@@ -14,7 +14,7 @@ Going to intially work towards implementing a working MPChecker
  - Initially, these supporting modules/packages can be inefficient/clunky
 
 ## Project Code Repository
-Code is in the [GitHub hosted Git repository](https:??????????).
+Code is in the [GitHub hosted Git repository](https://github.com/matthewjohnpayne/mpc).
 
 Note that there is significant heritage from the [BitBucket hosted Git repository](https://bitbucket.org/mpcdev/mpcpp/). 
 
