@@ -1,3 +1,0 @@
-[console_scripts]
-mpc = mpc:main
-

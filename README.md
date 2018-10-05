@@ -27,13 +27,13 @@ Python test modules are provided as a separate package.
 They perform validations of MPC subpackage functionality.
 In the source repository they are located under [tests](?????????????).
 
-See README\_TESTS.md for more detail on testing.
+See tests\/README\_TESTS.md for more detail on testing.
 
 
 
 ## Installation
 
-See README\_INSTALL.rst for more detail on installation.
+See README\_INSTALL.md for more detail on installation.
 
 
 ### Requirements
